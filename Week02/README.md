@@ -1,1 +1,3 @@
-This is the readme file including lists of libaries needed and requirements to run the code.
+This is the readme file including lists of libraries needed and requirements to run the code.
+Libraries: numpy, scipy, pandas, statsmodels, matplotlib
+Requirements: No specific requirements. Could directly run. 
